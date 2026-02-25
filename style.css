@@ -3,3 +3,11 @@
     padding:0;
     box-sizing: border-box;
 }
+.about_me{
+    background-color: aquamarine;
+    padding: 2rem;
+
+}
+.about_me > ul > li, .about_me > div > ul >li{
+        list-style: none;
+}
