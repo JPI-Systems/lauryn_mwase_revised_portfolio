@@ -50,3 +50,10 @@ a{
     padding-top: 1rem;
     font-weight: bolder;
 }
+#skill_head{
+    padding: 0.7rem;
+}
+.skills{
+  border-top: black solid 0.1rem;
+    background-color: rgba(135, 207, 235, 0.466);
+}
