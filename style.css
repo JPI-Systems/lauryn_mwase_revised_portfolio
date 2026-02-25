@@ -37,8 +37,8 @@ border-top: black solid 0.1rem;
 a{
     text-decoration: none;
     font-style: italic;
-    font-size: small;
-    color: gray;
+    font-size: medium;
+    color: green;
 }
 .certificates{
     border-top: black solid 0.1rem;
@@ -71,6 +71,11 @@ a{
 background-color: rgba(135, 168, 235, 0.466);
     padding: 2rem;
 }
-.education > h1, .experience > h1, #pro{
+.education > h1, .experience > h1, #pro, .education > h1{
     padding: 0.5rem;
+}
+.contact{
+    border-top: black solid 0.1rem;
+background-color: rgba(135, 168, 235, 0.466);
+    padding: 2rem; 
 }
