@@ -40,3 +40,8 @@ a{
     font-size: small;
     color: gray;
 }
+.certificates{
+    border-top: black solid 0.1rem;
+     background-color: rgba(127, 255, 212, 0.432);
+    padding: 2rem;
+}
