@@ -4,10 +4,15 @@
     box-sizing: border-box;
 }
 .about_me{
-    background-color: aquamarine;
+    background-color: rgba(127, 255, 212, 0.432);
     padding: 2rem;
 
 }
 .about_me > ul > li, .about_me > div > ul >li{
         list-style: none;
+}
+.experience{
+    border-top: black solid 0.5rem;
+    background-color: rgba(135, 207, 235, 0.466);
+    padding: 2rem; 
 }
