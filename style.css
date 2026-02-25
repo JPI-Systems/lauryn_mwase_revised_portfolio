@@ -12,7 +12,7 @@
         list-style: none;
 }
 .experience{
-    border-top: black solid 0.5rem;
+    border-top: black solid 0.1rem;
     background-color: rgba(135, 207, 235, 0.466);
     padding: 2rem; 
 }
@@ -31,7 +31,7 @@ img{
     border-radius: 1rem;
 }
 #pro{
-border-top: black solid 0.5rem;
+border-top: black solid 0.1rem;
     background-color: rgba(135, 207, 235, 0.466);
 }
 a{
