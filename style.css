@@ -20,13 +20,23 @@
     display: flex;
     flex-direction: row;
     flex-flow: wrap;
+    background-color: rgba(135, 207, 235, 0.466);
 }
 .projects > div{
-   /* background-color: aqua; */
    margin: 1rem;
 }
 img{
- height: 10rem;
+ height: 12rem;
     width: 20rem;
     border-radius: 1rem;
+}
+#pro{
+border-top: black solid 0.5rem;
+    background-color: rgba(135, 207, 235, 0.466);
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    font-size: small;
+    color: gray;
 }
