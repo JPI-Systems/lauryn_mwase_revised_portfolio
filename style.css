@@ -66,3 +66,11 @@ a{
     padding: 0.5rem;
     font-style: oblique;
 }
+.education{
+    border-top: black solid 0.1rem;
+background-color: rgba(135, 168, 235, 0.466);
+    padding: 2rem;
+}
+.education > h1, .experience > h1, #pro{
+    padding: 0.5rem;
+}
