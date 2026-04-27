@@ -264,7 +264,17 @@ section {
   list-style: none;
   margin-bottom: 0.5rem;
 }
-
+.about{
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+.profile img{
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 10%;
+}
 a {
   text-decoration: none;
   color: #2563eb;
